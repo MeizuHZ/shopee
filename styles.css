@@ -207,12 +207,12 @@ form input[type=submit]{
   }
   
   img.photo1 {
-    height: 260px;
+    height: 3200px;
     width: 650px;
   }
   
   img.photo2 {
-    height: 127.85px;
+    height: 157.85px;
   }     
 nav.video-uni {
     position: sticky;
